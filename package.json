@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/fhellwig/mongodb-filesystem#readme",
   "peerDependencies": {
-    "mongodb": "^3.5.9"
+    "mongodb": ">=3.5.9"
   },
   "devDependencies": {
     "jsdoc-to-markdown": "^6.0.1",
